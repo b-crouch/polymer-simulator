@@ -22,11 +22,19 @@ bibtex_bibfiles:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/b-crouch/polymer-simulator
+  branch: master
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: true
   use_repository_button: true
- launch_buttons:
-  thebe                  : true
+
+launch_buttons:
+  notebook_interface : "classic" 
+  binderhub_url      : "https://mybinder.org"
+  thebe              : true
+
+sphinx:
+  extra_extensions:
+    - sphinx_thebe
