@@ -32,7 +32,7 @@ html:
 
 launch_buttons:
   notebook_interface : "classic" 
-  binderhub_url      : "https://mybinder.org/v2/gh/b-crouch/polymer-simulator/"
+  binderhub_url      : "https://github.com/b-crouch/polymer-simulator/blob/master/index.ipynb"
   thebe              : true
 
 sphinx:
