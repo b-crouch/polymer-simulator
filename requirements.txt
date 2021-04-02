@@ -1,0 +1,6 @@
+numpy
+plotly
+pandas
+regex
+itertools
+math
