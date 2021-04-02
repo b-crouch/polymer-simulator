@@ -32,7 +32,7 @@ html:
 
 launch_buttons:
   notebook_interface : "classic" 
-  binderhub_url      : "https://gesis.mybinder.org/binder/v2/gh/b-crouch/polymer-simulator/88e8b265000d89f652c1fa47499174f06b1dd2df"
+  binderhub_url      : "https://mybinder.org/v2/gh/b-crouch/polymer-simulator/9220b4432ae5a371e20c940e803e05bd3a8e1517"
   thebe              : true
 
 sphinx:
