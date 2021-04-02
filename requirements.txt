@@ -1,6 +1,6 @@
-numpy
-plotly
-pandas
-regex
-itertools
-math
+numpy==1.20.2
+plotly==4.14.3
+pandas==1.2.3
+regex==2021.3.17
+itertools==8.7.0
+math==3.8
