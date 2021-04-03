@@ -1,10 +1,6 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
-
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
@@ -32,7 +28,7 @@ html:
 
 launch_buttons:
   notebook_interface : "classic" 
-  binderhub_url      : "https://gesis.mybinder.org/binder/v2/gh/b-crouch/polymer-simulator/00fb13b95d2dbc171a71712f31fae50c50731d9c"
+  binderhub_url      : "https://mybinder.org"
   thebe              : true
 
 
