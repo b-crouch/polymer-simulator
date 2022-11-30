@@ -6,4 +6,5 @@ This notebook randomly generates interactive models of polymer conformation stru
 * Freely rotating chain model (bond angle is constant between monomers)
 * Isometric rotation chain model (bond angle is constant; torsional angle is weighted by the preferred energetic orientation)
 
-https://drive.google.com/file/d/1ASqvjNswUDYGtuSoSBdsJ99BIKPaOyxw/view
+
+https://user-images.githubusercontent.com/77704928/204730400-782718fc-9625-4c73-bc6d-a05ec32fc28b.mov
